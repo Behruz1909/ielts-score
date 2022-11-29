@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+}
+.container{
+    width: 100%;
+    max-width: 1240px;
+    padding: 0 40px;
+    margin: 0 auto;
+}
+.wrapper{
+    height: 50px;
+    background-color: #E8CE91;
+    margin-bottom: 120px;
+}
+.wrapper__title{
+    text-align: center;
+    padding-top: 3px;
+    color: #E31837;
+}
+.wrapper__two__title{
+    color: #E31837;
+}
+.icon__img{
+    margin-left: 80px;
+    margin-top: 55px
+}
+.image{
+    padding-left: 60%;
+}
